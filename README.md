@@ -18,6 +18,7 @@ My major interest and strength lie in machine learning, Deep Learning, and Data 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Artificial Intelligence PC 🖥️ build with RTX 3090 | Deep Learning PC 2021](https://www.youtube.com/watch?v=dVc_e9FkmKQ&t=87s)
 - [Object Detection Using YOLO v4 on Custom Dataset | Practical Implementation](https://youtu.be/yGMZOD44GrI)
 - [Object Detection Using Faster R-CNN](https://youtu.be/iHf2xHQ2VYo)
 - [ResNet Explained Step by Step( Residual Networks)](https://youtu.be/Uuc1wdqMFtQ)
