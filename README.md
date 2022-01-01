@@ -5,11 +5,27 @@
 <a href="mailto:aarohisingla1987@gmail.com">
   <img align="left" alt="Email Me" width="22px" src="/assets/envelope.svg" />
 </a>  
+<a href="https://www.linkedin.com/in/aarohi-singla-761b2448/">
+  <img align="left" alt="linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> 
 <br>
 <br>  
 
 
 My major interest and strength lie in machine learning, Deep Learning, and Data Science. I thrive to showcase my skills and build trust in my clients by going the extra mile for them. I am self-motivated and love to work on the most challenging tasks. I aim to fulfill the assigned requirements and make assure to offer complete dedication to the task in my hands
+
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Object Detection Using YOLO v4 on Custom Dataset | Practical Implementation](https://youtu.be/yGMZOD44GrI)
+- [Object Detection Using Faster R-CNN](https://youtu.be/iHf2xHQ2VYo)
+- [ResNet Explained Step by Step( Residual Networks)](https://youtu.be/Uuc1wdqMFtQ)
+- [Single Shot Detector | SSD | Object Detection Using SSD](https://youtu.be/NUEim5bF0_0)
+- [Yolo v5 on Custom Dataset | Train and Test Yolov5 on Custom Dataset 🤯](https://youtu.be/80Q3HIBy7Qg)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCgHDngFV50KmbqF_6-K8XhA)
 
 <!--
 📈 **My GitHub Stats**:  
