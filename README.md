@@ -18,6 +18,9 @@ My major interest and strength lie in machine learning, Deep Learning, and Data 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Official YOLOv7](https://www.youtube.com/watch?v=n0Lp59zjQPE&t=421s)
+- [YOLOv7 | Instance Segmentation on Custom Dataset](https://www.youtube.com/watch?v=qej73NGDQfo&t=543s)
+- [YOLOv7 | Object Detection | instance segmentation | keypoints detection](https://www.youtube.com/watch?v=ag88beS_fvM&t=392s)
 - [Artificial Intelligence PC 🖥️ build with RTX 3090 | Deep Learning PC 2021](https://www.youtube.com/watch?v=dVc_e9FkmKQ&t=87s)
 - [3D Object Detection Using Yolov4](https://www.youtube.com/watch?v=F3IEobi7Li4)
 - [Object Detection Using YOLO v4 on Custom Dataset | Practical Implementation](https://youtu.be/yGMZOD44GrI)
