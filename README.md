@@ -19,14 +19,10 @@ I am always enthusiastic about collaborating on exciting projects related to com
 ### Contact Me
 Feel free to reach out to me through the following channels:
 - GitHub: [Your GitHub Profile Link](link)
-- YouTube: <a href="https://www.youtube.com/channel/UCgHDngFV50KmbqF_6-K8XhA">
-  <img align="left" alt="Code with Aarohi" width="22px" src="/assets/youtube.svg" />
-</a>
-- LinkedIn<img align="left" alt="linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />: "https://www.linkedin.com/in/aarohi-singla-761b2448/"
-
-- Email: <a href="mailto:aarohisingla1987@gmail.com">
-  <img align="left" alt="Email Me" width="22px" src="/assets/envelope.svg" />
-</a>  
+- YouTube<img align="left" alt="Code with Aarohi" width="22px" src="/assets/youtube.svg" />: [YouTube]("https://www.youtube.com/channel/UCgHDngFV50KmbqF_6-K8XhA")
+- LinkedIn<img align="left" alt="linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />: [LinkedIn Profile]("https://www.linkedin.com/in/aarohi-singla-761b2448/")
+- Email<img align="left" alt="Email Me" width="22px" src="/assets/envelope.svg" />: ":aarohisingla1987@gmail.com"
+ 
 
 
 
