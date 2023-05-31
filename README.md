@@ -13,9 +13,8 @@
 
 
 "I am a passionate Data Scientist specializing in computer vision, with expertise in key areas such as object detection, image classification, and deep learning techniques."
-I have a keen interest in leveraging cutting-edge techniques to solve complex problems in computer vision and extract meaningful insights from visual data.
 
-I am always enthusiastic about collaborating on exciting projects related to computer vision, object detection, image classification, and deep learning. Let's connect and explore the world of visual intelligence together!(https://github.com/AarohiSingla/AarohiSingla/assets/60029146/a6144209-d5e7-468d-9ba7-a820f6aa5b8a)
+
 
 
 ### 📺 Latest YouTube Videos
