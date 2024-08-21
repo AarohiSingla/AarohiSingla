@@ -7,7 +7,7 @@
 ### Contact Me
 Feel free to reach out to me through the following channels:
 - YouTube: [Code With Aarohi](https://www.youtube.com/channel/UCgHDngFV50KmbqF_6-K8XhA)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aarohi-singla-761b2448/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aarohi-akminder-singla-761b2448/)
 - Email: aarohisingla1987@gmail.com
  
 
